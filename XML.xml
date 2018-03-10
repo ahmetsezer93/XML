@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Books>
+<Records>
 	<book>
 		<book_title>Otomatik Portakal</book_title>
 		<author>Anthony Burgess</author>
@@ -198,4 +198,4 @@
 		<price>29.00TL</price>
 		<url>http://www.dr.com.tr/Kitap/Turlerin-Kokeni/Bilim/Populer-Bilim/urunno=0001719848001</url>
 	</book>
-</Books>
+</Recors>

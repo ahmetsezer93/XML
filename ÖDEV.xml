@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+	<book>
+		<book_title>Otomatik Portakal</book_title>
+		<author>Anthony Burgess</author>
+		<publisher>İş Bankası Kültür Yayınları</publisher>
+		<isbn>9789944885706</isbn>
+		<date_of_publication>2009</date_of_publication>
+		<price>14.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Otomatik-Portakal/Anthony-Burgess/Edebiyat/Roman/Dunya-Roman/urunno=0000000293370</url>
+	</book>
+	<book>
+		<book_title>İntihar Dükkanı</book_title>
+		<author>Jean Teule</author>
+		<publisher>Sel Yayıncılık</publisher>
+		<isbn>9789755705460</isbn>
+		<date_of_publication>2011</date_of_publication>
+		<price>14.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Intihar-Dukkani/Jean-Teule/Edebiyat/Roman/Dunya-Roman/urunno=0000000381013</url>
+	</book>
+	<book>
+		<book_title>Prens</book_title>
+		<author>Machiavelli</author>
+		<publisher>Remzi Kitapevi</publisher>
+		<isbn>9789751416353</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>12.50TL</price>
+		<url>http://www.dr.com.tr/Kitap/Prens/Machiavelli/Felsefe/Felsefe-Bilimi/urunno=0000000604336</url>
+	</book>
+	<book>
+		<book_title>Yüzbaşının Kızı</book_title>
+		<author>Aleksandr Sergeyeviç Puşkin</author>
+		<publisher>Alter Yayınları</publisher>
+		<isbn>9786054099771</isbn>
+		<date_of_publication>2009</date_of_publication>
+		<price>8.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Yuzbasinin-Kizi/Aleksandr-Sergeyevic-Puskin/Edebiyat/Roman/Dunya-Klasik/urunno=0000000521583</url>
+	</book>
+	<book>
+		<book_title>Hayvan Çiftliği</book_title>
+		<author>George Orwell</author>
+		<publisher>Can Yayınları</publisher>
+		<isbn>9789750719387</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>16.50TL</price>
+		<url>http://www.dr.com.tr/Kitap/Hayvan-Ciftligi/George-Orwell/Edebiyat/Roman/Dunya-Roman/urunno=0000000105409</url>
+	</book>
+	<book>
+		<book_title>Sineklerin Tanrısı</book_title>
+		<author>William Golding</author>
+		<publisher>İş Bankası Kültür Yayınları</publisher>
+		<isbn>9789754582901</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>16.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Sineklerin-Tanrisi/William-Golding/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800</url>
+	</book>
+	<book>
+		<book_title>Dönüşüm</book_title>
+		<author>Franz Kafka</author>
+		<publisher>İş Bankası Kültür Yayınları</publisher>
+		<isbn>9786053609322</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>6.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Donusum/Franz-Kafka/Edebiyat/Roman/Dunya-Roman/urunno=0000000561966</url>
+	</book>
+	<book>
+		<book_title>Sapiens:A Brief History of Humankind</book_title>
+		<author>Yuval Noah Harari</author>
+		<publisher>Vintage</publisher>
+		<isbn>9780099590088</isbn>
+		<date_of_publication>2015</date_of_publication>
+		<price>52.86TL</price>
+		<url>http://www.dr.com.tr/Kitap/Sapiens-A-Brief-History-of-Humankind/Yuval-Noah-Harari/Foreign-Languages/History/History-Military/urunno=0000000645463</url>
+	</book>
+	<book>
+		<book_title>Homo Deus:A Brief History of Tomorrow</book_title>
+		<author>Yuval Noah Harari</author>
+		<publisher>Vintage</publisher>
+		<isbn>9781784703936</isbn>
+		<date_of_publication>2017</date_of_publication>
+		<price>52.86TL</price>
+		<url>http://www.dr.com.tr/Kitap/Homo-Deus-A-Brief-History-of-Tomorrow/Yuval-Noah-Harari/Foreign-Languages/Reference/Science/urunno=0001700063001</url>
+	</book>
+	<book>
+		<book_title>Damda Deli Var</book_title>
+		<author>Aziz Nesin</author>
+		<publisher>Nesin Yayınevi</publisher>
+		<isbn>9789759038014</isbn>
+		<date_of_publication>2005</date_of_publication>
+		<price>16.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Damda-Deli-Var/Aziz-Nesin/Mizah/Mizah-Romani-Oyku/urunno=0000000169528</url>
+	</book>
+	<book>
+		<book_title>Yaşar Ne Yaşar Ne Yaşamaz</book_title>
+		<author>Aziz Nesin</author>
+		<publisher>Nesin Yayınevi</publisher>
+		<isbn>9789759038472</isbn>
+		<date_of_publication>1977</date_of_publication>
+		<price>23.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Yasar-Ne-Yasar-Ne-Yasamaz/Aziz-Nesin/Mizah/Mizah-Romani-Oyku/urunno=0000000187061</url>
+	</book>
+	<book>
+		<book_title>Zamanın Kısa Tarihi</book_title>
+		<author>Stephen Hawking</author>
+		<publisher>Alfa Yayıncılık</publisher>
+		<isbn>9786051067582</isbn>
+		<date_of_publication>2017</date_of_publication>
+		<price>19.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Zamanin-Kisa-Tarihi/Stephen-Hawking/Bilim/Populer-Bilim/urunno=0000000562120</url>
+	</book>
+	<book>
+		<book_title>Erkek Beyni</book_title>
+		<author>Louann Brizendine</author>
+		<publisher>Say Yayınları</publisher>
+		<isbn>9789754689884</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>25.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Erkek-Beyni/Louann-Brizendine/Egitim-Basvuru/Psikoloji-Bilimi/urunno=0000000357713</url>
+	</book>
+	<book>
+		<book_title>Kadın Beyni</book_title>
+		<author>Louann Brizendine</author>
+		<publisher>Say Yayınları</publisher>
+		<isbn>9789754687347</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>25.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Kadin-Beyni/Louann-Brizendine/Arastirma-Tarih/Kadin/urunno=0000000275520</url>
+	</book>
+	<book>
+		<book_title>Metro 2033</book_title>
+		<author>Dmitry Glukhovsky</author>
+		<publisher>Panama Yayıncılık</publisher>
+		<isbn>9786059127349</isbn>
+		<date_of_publication>2015</date_of_publication>
+		<price>29.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Metro-2033/Dmitry-Glukhovsky/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000667877</url>
+	</book>
+	<book>
+		<book_title>Metro 2034</book_title>
+		<author>Dmitry Glukhovsky</author>
+		<publisher>Panama Yayıncılık</publisher>
+		<isbn>9786059127356</isbn>
+		<date_of_publication>2015</date_of_publication>
+		<price>25.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Metro-2034/Dmitry-Glukhovsky/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000667879</url>
+	</book>
+	<book>
+		<book_title>Metro 2035</book_title>
+		<author>Dmitry Glukhovsky</author>
+		<publisher>Panama Yayıncılık</publisher>
+		<isbn>9786059371773</isbn>
+		<date_of_publication>2017</date_of_publication>
+		<price>30.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Metro-2035/Dmitry-Glukhovsky/Edebiyat/Roman/Bilim-Kurgu/urunno=0001689565001</url>
+	</book>
+	<book>
+		<book_title>Fahrenheit 451</book_title>
+		<author>Ray Bradbury</author>
+		<publisher>İthaki Yayınları</publisher>
+		<isbn>9786053751670</isbn>
+		<date_of_publication>2012</date_of_publication>
+		<price>15.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000387817</url>
+	</book>
+	<book>
+		<book_title>Das Kapital</book_title>
+		<author>Karl Marx</author>
+		<publisher>Gece Kitaplığı</publisher>
+		<isbn>9786053243151</isbn>
+		<date_of_publication>2016</date_of_publication>
+		<price>18.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Das-Kapital/Karl-Marx/Felsefe/Felsefeciler/urunno=0000000623046</url>
+	</book>
+	<book>
+		<book_title>Sokratesin Savunması</book_title>
+		<author>Platon</author>
+		<publisher>Panama Yayıncılık</publisher>
+		<isbn>9786059127264</isbn>
+		<date_of_publication>2015</date_of_publication>
+		<price>6.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Sokratesin-Savunmasi/Platon/Edebiyat/Roman/Dunya-Klasik/urunno=0000000659440?gclid=CjwKCAiA_ojVBRAlEiwAOLRxI4PvhxA3w-AKUHdHhKsPMSpyhRbdaxc5Azuy9ymu1V4pWEt_Dx_iDhoCyu8QAvD_BwE</url>
+	</book>
+	<book>
+		<book_title>Bilim ve Anarşizm</book_title>
+		<author>Pyotr Alekseyeviç Kropotkin</author>
+		<publisher>Alter Yayınları</publisher>
+		<isbn>9786054922383</isbn>
+		<date_of_publication>2014</date_of_publication>
+		<price>18.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Bilim-ve-Anarsizm/Peter-Kropotkin/Felsefe/Felsefe-Bilimi/urunno=0000000602496</url>
+	</book>
+	<book>
+		<book_title>Türlerin Kökeni</book_title>
+		<author>Charles Darwin</author>
+		<publisher>Alfa Yayıncılık</publisher>
+		<isbn>9786051715308</isbn>
+		<date_of_publication>2017</date_of_publication>
+		<price>29.00TL</price>
+		<url>http://www.dr.com.tr/Kitap/Turlerin-Kokeni/Bilim/Populer-Bilim/urunno=0001719848001</url>
+	</book>
+</Books>
